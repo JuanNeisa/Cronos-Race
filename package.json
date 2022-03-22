@@ -1,0 +1,15 @@
+{
+  "name": "cronos-race",
+  "version": "1.0.0",
+  "description": "Aplicacion para cronometraje y administracion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Juan David Neisa Paramo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
