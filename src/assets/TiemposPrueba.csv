@@ -1,0 +1,406 @@
+﻿Pos.;N°;Nombre;Clase;Liga/Pais;Club;Email;Documento;NAT;T1;CICL;T2;META;;;;;;;Standard
+1;504;Jorge Andres Aguilar Leal;MAV;VAL;TRICEROZ;jhac777@hotmail.com;1007395878;7:25.239;9:12.163;27:04.679;29:02.007;00:39:22;;;;;;;Standard
+2;501;Paula Martinez Moron;IAD;EXT;Extranjeros;luismaji@hotmail.com;873349;7:41.274;10:38.601;27:47.904;30:04.638;00:39:59;;;;;;;Standard
+3;505;Juan Esteban Florez Rojas;MAV;CAU.;Neptuno;angiep1107@hotmail.com;1000461135;7:59.830;9:50.592;27:51.198;29:44.702;00:40:39;;;;;;;Standard
+4;508;Martin Jaramillo Isaza;MAV;COR;Tornados;isa.isaza@hotmail.com;1001367079;8:05.305;10:04.274;27:51.717;29:47.539;00:40:57;;;;;;;Standard
+5;511;Tomas Hernan Fernandez Viveros;MAV;CAU.;Neptuno;angiep1107@gmail.com;1059234149;8:14.511;10:35.023;30:35.886;32:46.738;00:47:11;;;;;;;Standard
+6;506;Cristian Camilo GarzÓn;MAV;MET;3Sky;fretri@hotmail.com;100661929;8:14.810;10:40.442;10:44.807;33:47.748;00:49:03;;;;;;;Standard
+7;502;Divith Valeria Papamija Carrillo;MAD;VAL;Proyecto Colombia;trioctavio@hotmail.com;1006229678;8:23.863;10:41.190;31:28.536;33:54.589;00:48:31;;;;;;;Standard
+8;510;Nicolas Acevedo Acevedo;MAV;SL;Sin Club;nitroacevedo2004@gmail.com;1032876435;8:42.264;11:58.518;33:11.783;37:03.937;00:52:07;;;;;;;Standard
+9;507;Daniel Felipe Mosquera Calderon;MAV;COR;Tornados;hmosquera@colfem.edu.co;1000184383;9:04.187;11:13.228;30:30.720;32:18.007;00:43:55;;;;;;;Standard
+10;513;Juan Manuel Posada Gonzalez;MBV;VAL;TRICEROZ;juanpodozol@gmail.com;1112389267;9:29.917;11:30.386;32:50.989;34:58.518;00:47:14;;;;;;;Standard
+11;509;Alejandro Botero Burgos;MAV;COR;Tornados;luisad007@hotmail.com;1003050386;9:34.542;11:48.730;31:30.262;33:37.965;00:45:31;;;;;;;Standard
+12;648;Mariana Cardona Ramirez;MAD;VAL;TRICEROZ;triceroz2013@hotmail.com;1115062090;9:37.797;11:48.886;32:58.970;35:04.566;00:47:41;;;;;;;Standard
+13;503;Gabriela Escobar Arenas;MAD;VAL;TRICEROZ;herlye67@hotmail.com;1006229965;10:47.210;13:04.298;34:30.606;10:47.210;00:49:05;;;;;;;Standard
+14;514;Roger Camilo Velosa Duarte;MBV;MET;3Sky;fretri@hotmail.com;1123532066;11:35.532;14:07.358;14:07.358;38:21.213;00:52:07;;;;;;;Standard
+15;500;Geronimo Diaz Bernal;ICV;BOG;Escuela Colombiana de Triatlon;adiaz@innovanetworks.com.co;1014868325;0.000;0.000;0.000;0.000;00:31:43;;;;;;;Standard
+1;169;Nicolas Delgado;G;BOG;Endurance Team;nicolas.delgado@inndelgroup.com;79984262;11:50.856;14:53.078;47:25.355;49:34.352;01:10:17;;;;;;;Standard
+2;268;Dario Asnauer Gomez Rivera;G;VAL;TRICALI;Dagr1000@hotmail.com;16917078;11:56.818;14:58.803;47:26.138;50:00.396;01:13:24;;;;;;;Standard
+3;230;Agustin Eduardo Molina Echeverri;K;ANT.;Titanes;agustin.molina70@hotmail.com;98551494;11:59.494;17:15.086;53:30.985;56:56.554;01:20:25;;;;;;;Standard
+4;223;Jorge Ivan Henao Restrepo;K;RIS;CONDOR;JIHENAOR@HOTMAIL.COM;75068189;12:07.726;15:28.600;49:58.400;1:04:20.988;01:16:34;;;;;;;Standard
+5;199;Gustavo Penilla Garcia;I;VAL;TRICALI;thigre@hotmail.com;94486247;12:10.683;14:51.463;47:28.005;49:27.128;01:10:51;;;;;;;Standard
+6;233;Ubeimar Herrera;M;ANT.;Titanes;Ubeimar2000@yahoo.com;71684306;13:37.480;16:51.608;49:04.516;51:17.430;01:12:31;;;;;;;Standard
+7;220;Mauricio Gonzalez Urrea;K;RIS;TRIBU TRIATLON;mdgonzo@hotmail.com;18495258;13:43.896;17:43.674;51:59.286;55:17.210;01:28:34;;;;;;;Standard
+8;171;Diego Enrique Ruiz Rodriguez;G;SL;Sin Club;dieruarroba1@hotmail.com;80084947;13:45.747;17:21.684;50:49.333;53:06.903;01:14:15;;;;;;;Standard
+9;148;Jose Leonardo Rubiano Rojas;E;SL;Sin Club;JOSELEO999@HOTMAIL.COM;1032357419;14:02.355;17:04.629;49:07.511;51:24.982;01:12:25;;;;;;;Standard
+10;147;Francisco Correa Rozo;E;MET;3Sky;fcorrearozo@gmail.com;1020715522;14:03.305;17:56.931;55:08.309;58:11.995;01:22:28;;;;;;;Standard
+11;174;Carlos Andres Herrera Ibagos;G;ANT.;Titanes;quiron1782@gmail.com;94074352;14:07.884;18:00.743;51:00.138;53:26.034;01:13:25;;;;;;;Standard
+12;631;Julian David Salazar;I;VAL;Integra Runners;Juliansalazar2@Hotmail.com;94328255;14:10.390;18:08.264;53:33.803;56:30.287;01:26:05;;;;;;;Standard
+13;227;Jan Jacob Eberle Solorzano;K;SL;Sin Club;janeberle@hotmail.com;79601080;14:12.752;17:27.335;2:46:47.284;53:13.926;01:15:44;;;;;;;Standard
+14;167;Carlos Andrés Olarte Lopez;G;SL;Sin Club;olarte.carlos@gmail.com;79949150;14:14.816;17:37.171;50:58.749;53:32.202;01:16:11;;;;;;;Standard
+15;239;Janos Kapitany;M;BOG;226 TB;kapi@xportiva.com;79386277;14:15.196;18:00.961;50:57.971;53:25.586;01:15:28;;;;;;;Standard
+16;182;Federico Pardo Vidal;I;SL;Sin Club;Pardof@hotmail.com;79695611;14:15.604;17:25.082;49:31.972;51:39.219;01:11:19;;;;;;;Standard
+17;175;Cristian Edward Orozco Ferro;G;FA;ESMIC;Ceof24@yahoo.es;94476308;14:17.681;16:58.889;41:07.253;51:11.723;01:10:08;;;;;;;Standard
+18;150;Carlos Mauricio Serrano Sarmiento;E;SAN;Super Nova;karlserr2000@gmail.com;1098613058;14:34.596;18:03.693;50:56.298;53:14.888;01:15:23;;;;;;;Standard
+19;226;Carlos Augusto Estrada Arenas;K;SAN;Titanes;c_estrada@hotmail.com;79591538;14:36.775;18:35.393;50:57.541;54:16.206;01:19:51;;;;;;;Standard
+20;203;Juan Felipe Morales Acevedo;I;ANT.;CNMC;jfmoras@hotmail.com;98663938;14:41.087;17:58.179;50:55.151;53:15.236;01:15:01;;;;;;;Standard
+21;242;Juan Carlos PeÑa Salgado;M;SL;Sin Club;nataliaval@hotmail.com;79435976;14:41.620;18:29.025;50:57.185;53:25.703;01:15:48;;;;;;;Standard
+22;212;Luis Eduardo Ramirez Hurtado;K;VAL;RUN MAX;ramirezluise@gmail.com;16757449;14:48.014;18:41.408;50:58.170;53:34.206;01:17:59;;;;;;;Standard
+23;621;Roger Steven Salas Gonzalez;E;TOL;TRIPAMA;anfibiosalas@misena.edu.co;14295440;14:50.892;18:29.781;55:14.108;1:14:32.968;01:14:48;;;;;;;Standard
+24;154;Rodrigo Peña;G;BOG;Escuela Colombiana de Triatlon;rodrigopr@gmail.com;4615489;14:53.997;19:59.604;59:34.804;1:04:13.140;01:32:00;;;;;;;Standard
+25;146;Luis Horacio Botero;E;VAL;RUN MAX;lhop_2006@hotmail.com;94541314;14:58.773;18:25.381;51:01.659;53:21.593;01:20:23;;;;;;;Standard
+26;218;Alfredo Ayala Castillo;K;BOG;Endurance Team;aayala@gpmorg.com;17340947;14:59.036;18:46.929;2:17:13.453;56:35.730;01:23:52;;;;;;;Standard
+27;216;Carlos Arturo Velasquez Restrepo;K;SL;Sin Club;ca.velasquezr@hotmail.com;16828499;15:00.424;19:51.643;1:37:27.922;1:01:37.206;01:28:01;;;;;;;Standard
+28;644;Jorge Lopez Montenegro;O;VAL;TRICALI;timbagrande@gmail.com;16661233;15:01.306;18:58.544;56:09.548;58:25.979;01:25:20;;;;;;;Standard
+29;215;Rubén Darío Narváez Vargas;K;VAL;TRICALI;Principe2090@yahoo.com;16792089;15:02.179;20:00.523;53:43.716;57:06.127;01:24:26;;;;;;;Standard
+30;228;Luis Fernando Montes Salazar;K;BOG;226 TB;gerenciasnayder@hotmail.com;79650418;15:07.522;20:17.029;54:45.996;59:20.908;01:08:33;;;;;;;Standard
+31;159;Andres Guillermo Martinez Otalora;G;BOG;Escuela Colombiana de Triatlon;gerencia@expenda.co;11443178;15:27.058;19:27.668;53:38.393;56:32.401;01:22:51;;;;;;;Standard
+32;188;Rodrigo Guevara Montes;I;BOG;Endurance Team;rodrigovorestaurante@gmail.com;79873315;15:33.815;19:42.630;53:34.105;56:58.790;01:20:10;;;;;;;Standard
+33;178;Juan Del Río Otero;I;EXT;Extranjeros;Juandelriootero@gmail.com;440051;15:35.931;20:38.445;55:13.563;1:08:55.020;01:20:12;;;;;;;Standard
+34;201;Juan Manuel Mantilla Mejia;I;SL;Sin Club;caracoletasglobos@hotmail.com;94499012;15:39.610;19:45.824;53:31.781;55:35.936;01:17:28;;;;;;;Standard
+35;176;Mike Suarez;G;CAL;TRIATLETAS DEL CAFE;mikesuarezp@hotmail.com;1107104537;15:41.845;19:32.063;53:38.053;56:00.694;01:21:16;;;;;;;Standard
+36;250;Alejandro Diaz Hadad;O;VAL;RUN MAX;chanydiaz@hotmail.com;16649708;15:46.230;22:09.641;1:00:54.555;1:06:47.912;01:48:20;;;;;;;Standard
+37;168;Andres Suárez;G;BOG;Endurance Team;Andresfsuarezm@gmail.com;79981834;16:00.039;20:20.303;55:48.247;59:31.096;01:24:20;;;;;;;Standard
+38;248;Jorge Iván Parra Londoño;O;BOG;Escuela Colombiana de Triatlon;parrapower2001@yahoo.com;14227789;16:00.998;21:54.443;58:28.973;1:02:32.433;01:29:45;;;;;;;Standard
+39;255;Roberto Kolter;Q;SL;Sin Club;rkolter@hms.harvard.edu;313269;16:02.522;20:26.750;2:51:29.050;1:00:24.016;01:28:12;;;;;;;70.3
+40;204;Jose Omar Botero Silva;K;VAL;TRICALI;jobspfi@yahoo.es;7556367;16:04.694;19:56.178;56:14.747;58:48.073;01:22:11;;;;;;;70.3
+41;229;Juan David Guzman Guttmann;K;MET;Estrellas;juado@hotmail.com;80423286;16:18.639;20:43.824;55:12.180;58:14.027;01:22:51;;;;;;;70.3
+42;152;Esteban Ramos Castro;E;SL;Sin Club;estebanramosc@hotmail.com;1100951923;16:24.351;20:55.724;54:46.588;57:15.693;01:20:20;;;;;;;70.3
+43;219;Luis Fernando Harb Peña;K;VAL;RUN MAX;Lfharb@gmail.com;18000737;16:27.176;20:14.094;53:31.901;56:08.642;01:20:05;;;;;;;70.3
+44;244;Gilberto Mateus Sanchez;M;MET;3Sky;gmateus2@yahoo.es;94180013;16:29.326;21:04.571;54:43.905;57:32.281;01:20:47;;;;;;;70.3
+45;193;Jose Eliecer Arias Rangel;I;SAN;Titanes;arias_josee@Hotmail.com;91292067;16:30.490;20:00.888;53:39.361;55:58.941;01:16:53;;;;;;;70.3
+46;249;Carlos Alberto Lian;O;VAL;RUN MAX;pepolian@gmail.com;16613475;16:30.840;21:56.121;57:49.240;1:01:48.103;01:29:34;;;;;;;70.3
+47;207;Julian Dario Giraldo Correa;K;CAL;TRIATLETAS DEL CAFE;juliangiraldocorrea@hotmail.com;10284478;16:31.513;20:13.464;53:36.307;55:50.240;01:17:41;;;;;;;70.3
+48;247;Daniel Castells;O;VAL;RUN MAX;hydronet@energyresources.es;546916;16:32.602;21:53.013;57:46.993;1:01:18.180;01:25:14;;;;;;;70.3
+49;198;Alvaro Andres Alban Tello;I;VAL;TRICALI;alvaroalban75@hotmail.com;94452833;16:34.034;20:12.888;53:42.118;56:00.560;01:19:14;;;;;;;70.3
+50;170;Alejandro Prieto;G;SL;Sin Club;prieto.alejo@gmail.com;80068730;16:38.064;21:49.392;59:07.423;1:02:11.652;01:26:28;;;;;;;70.3
+51;173;Daniel Salas Vernot;G;BOG;Lactato Team;salasvernot@gmail.com;80183651;16:38.179;22:09.249;56:51.344;1:00:35.681;01:28:41;;;;;;;70.3
+52;183;Jorge Ivan Hermida Benitez;I;BOG;Escuela Colombiana de Triatlon;jihermida@hotmail.com;79718034;16:38.831;20:11.726;54:45.529;57:04.103;01:19:52;;;;;;;70.3
+53;623;Jonathan Alexander Mosquera Ramirez;E;CAU.;TRIUNO;jalex086@gmail.com;1061529377;16:41.677;20:33.701;58:51.931;1:01:32.252;01:27:35;;;;;;;70.3
+54;143;Juan Manuel Díaz Hernández;E;BOG;226 TB;jmdiazhernandez@gmail.com;80874801;16:45.086;21:42.232;58:13.083;1:02:52.400;01:29:58;;;;;;;70.3
+55;231;Francisco Jose Rosero Tafur;M;SL;Sin Club;CLINICAODONTOSALUD_P@HOTMAIL.COM;12130277;16:46.774;21:54.589;56:13.493;1:05:30.963;01:29:45;;;;;;;70.3
+56;190;Juan Simon Mejia Velez;I;ANT.;Tritanium;jusimejia@yahoo.com;79941380;16:47.058;20:35.898;54:47.279;57:50.796;01:23:30;;;;;;;70.3
+57;256;Carlos Hernan Villarreal Arango;G;SL;Sin Club;villarrealrestrepo@hotmail.com;98668420;16:47.260;20:30.039;55:10.302;1:10:43.347;01:24:00;;;;;;;70.3
+58;166;Tomas Henríquez;G;SL;Sin Club;tomascontento@yahoo.com;79945977;16:49.525;21:19.525;56:50.446;1:00:10.209;01:25:04;;;;;;;70.3
+59;630;Fredy Gomez Velasquez;G;HUI;UTRAHUILCA;gomezfredy0@gmail.com;88285923;16:51.985;24:21.691;1:04:18.907;1:09:44.161;01:53:06;;;;;;;70.3
+60;200;Ricardo Andres Trejo Barbetti;I;VAL;RUN MAX;Ra.trejob@gmail.com;94492706;16:53.168;21:01.480;54:48.799;1:12:04.653;01:26:05;;;;;;;70.3
+61;210;Rommel Dario SÁnchez Villalba;K;ANT.;Tritanium;rommelsanchezv@yahoo.com;15326447;16:57.509;21:56.359;58:24.992;1:01:17.590;01:24:08;;;;;;;70.3
+62;238;William Rodríguez Gálvez;M;BOG;Escuela Colombiana de Triatlon;Educolombia@hotmail.com;79378513;17:01.431;22:19.566;57:47.676;1:01:39.535;01:29:48;;;;;;;70.3
+63;209;Alexander Ruiz Palacio;K;BOG;Lactato Team;alexanderruizp@gmail.com;13495228;17:02.165;20:55.642;56:14.363;1:00:01.224;01:23:25;;;;;;;70.3
+64;197;Joseba Gastaka Rosasco;I;SL;Sin Club;carod26@hotmail.com;94413229;17:02.891;21:30.684;58:27.432;1:03:05.063;01:28:50;;;;;;;70.3
+65;625;Franz Ioham Lara Rincon;G;COR;Gacelas;franzlara@hotmail.com;72004666;17:04.249;21:33.801;1:00:31.672;1:03:39.265;01:28:32;;;;;;;70.3
+66;196;Luis Armando Manotas Duque;I;VAL;RUN MAX;lamd30@hotmail.com;94401443;17:10.008;21:26.133;1:02:39.824;1:06:45.518;01:38:26;;;;;;;70.3
+67;145;Alejandro Valencia Vivas;E;VAL;TRICALI;Runnerscali@gmail.com;94537432;17:13.550;21:01.000;55:55.136;59:08.540;01:20:57;;;;;;;70.3
+68;243;Guido Fernando Tejada Lopez;M;VAL;RUN MAX;gftejada@gmail.com;79439803;17:16.633;21:09.071;2:13:23.705;1:00:01.187;01:27:15;;;;;;;70.3
+69;222;Rafael Ernesto Rozo Tibavisco;K;BOG;226 TB;rernestort@hotmail.com;73136842;17:20.030;21:18.943;55:39.207;58:29.197;01:27:36;;;;;;;70.3
+70;645;Noel Alberto Abadia Lastra;O;SL;Sin Club;noeltriatleta@hotmail.com;91201306;17:22.615;23:05.469;1:00:52.500;1:03:40.392;01:30:21;;;;;;;70.3
+71;192;Jose Luis Silva Valencia;I;MET;3Sky;fretri@hotmail.com;86044783;17:25.257;22:22.608;1:00:27.978;1:04:07.210;01:33:07;;;;;;;70.3
+72;620;Ruben Dario Camacho Bueno;E;SAN;Titanes;rudacabu@hotmail.com;73214522;17:27.009;21:37.206;58:53.641;1:02:11.098;01:28:54;;;;;;;70.3
+73;162;Jhony Andres NiÑo Parra;G;SL;Sin Club;an2jhony@hotmail.com;74185526;17:31.027;21:31.327;56:38.161;59:24.931;01:22:46;;;;;;;70.3
+74;234;Angelo Omar Reyes Mancera;M;BOG;Lactato Team;areyesm7@gmail.com;78381292;17:35.312;21:44.368;56:53.061;59:57.759;01:23:09;;;;;;;70.3
+75;151;Eduardo Favre Cujar;E;BOL;Armada Nacional;angiep1107@hotmail.com;1098626670;17:37.402;21:53.812;57:47.227;1:00:17.205;01:23:47;;;;;;;70.3
+76;155;Diego Fernando Valencia Barbosa;G;VAL;Integra Runners;diego.valencia00@gmail.com;6625940;17:40.220;21:13.621;55:59.716;58:45.115;01:23:10;;;;;;;70.3
+77;232;Luis Fernando Jaramillo Botero;M;VAL;RUN MAX;jarboter@gmail.com;16682948;17:41.717;24:23.302;1:04:22.722;19:19.237;;;;;;;;70.3
+78;251;Hernando Alberto Muñoz Rojas;O;SL;Sin Club;hamunozr@yahoo.com;19469437;17:44.092;22:10.620;58:47.270;1:01:58.258;01:29:34;;;;;;;70.3
+79;206;Wight Jerson Muñoz Argüello;K;RIS;TRIBU TRIATLON;wwjerson@hotmail.com;10140683;17:45.603;21:21.534;55:42.252;57:56.626;01:19:12;;;;;;;70.3
+80;180;Juan Gregorio Correa VÁsquez;I;ANT.;Actimax;gregoriocorrea1@hotmail.com;71746128;17:51.067;23:55.158;1:02:49.618;1:06:00.145;01:36:56;;;;;;;70.3
+81;194;Wilson Andrés Cruz Mina;I;VAL;RUN MAX;Wcruzmina@yahoo.com.co;94298822;17:52.238;22:31.728;59:06.876;1:02:21.592;01:32:18;;;;;;;70.3
+82;160;Jaime Arroyo;G;VAL;TRICALI;dr.jaimearroyo@gmail.com;16460645;17:53.072;23:07.085;59:08.914;1:02:34.376;01:26:05;;;;;;;70.3
+83;142;Santiago Pardo Rodriguez;E;MET;Estrellas;santiago.pardo.rodriguez@gmail.com;80815065;17:54.529;22:28.205;58:11.777;1:02:34.712;01:27:37;;;;;;;70.3
+84;635;Angel Mauricio Alzate Alzate;K;ANT.;Titanes;mao2979@gmail.com;98560091;17:55.648;22:40.157;1:02:41.107;1:05:46.523;01:36:49;;;;;;;70.3
+85;189;Mauricio Vargas Vergnaud;I;SL;Sin Club;vargasmauricio@gmail.com;79941005;17:56.602;21:59.511;58:23.506;1:00:54.745;01:24:20;;;;;;;70.3
+86;640;Daniel Alberto Acevedo Escobar;K;SL;Sin Club;acevedodaniel@hotmail.com;80419239;17:58.952;24:28.099;1:02:35.662;1:06:17.820;01:38:48;;;;;;;70.3
+87;214;Federico Alberto Garcia Acuña;K;VAL;RUN MAX;faga15@hotmail.com;16771243;17:59.780;22:52.373;57:24.245;1:00:23.159;01:28:23;;;;;;;70.3
+88;237;Jose Dionisio Vargas Giraldo;M;MET;3Sky;josedionisiovargas@gmail.com;79334781;18:09.500;21:33.027;57:21.983;1:00:25.414;01:26:04;;;;;;;70.3
+89;225;Carlos Alberto Sandoval Bautista;K;BOG;Lactato Team;carlos@deluchi.co;79481442;18:10.463;22:34.879;59:16.935;1:02:46.259;01:28:44;;;;;;;70.3
+90;221;Elmer Villegas Tamayo;K;ANT.;Titanes;evillegt@gmail.com;71717962;18:12.838;21:59.348;55:36.849;58:33.931;01:22:06;;;;;;;70.3
+91;254;Francisco Javier Vergara Moreno;O;BOG;Escuela Colombiana de Triatlon;fjaviervergaram@hotmail.com;79256393;18:13.793;24:16.889;1:01:13.738;1:04:06.974;01:29:51;;;;;;;70.3
+92;205;Juan Carlos Holguin Gutierrez;K;QUI.;Agua y Vida;juankhol@yahoo.com;10131758;18:15.473;22:16.692;57:19.700;1:00:20.744;01:26:59;;;;;;;70.3
+93;36;Juan Carlos Cardona Prada;M;BOG;Endurance Team;juancarloscardonaprada@gmail.com;79157237;18:16.590;23:45.399;1:05:10.246;1:09:10.303;01:43:56;;;;;;;70.3
+94;252;Gustavo Ignacio Gomez Marin;O;ANT.;Actimax;gusgoma@une.net.co;70512786;18:20.737;23:57.534;1:01:13.821;1:04:33.882;01:28:38;;;;;;;70.3
+95;605;Cesar Augusto Vejarano Varon;PRV;SL;Sin Club;cesvejavar@gmail.com;93411920;18:22.194;22:50.272;1:00:49.699;1:03:35.079;01:29:29;;;;;;;
+96;144;David Mejia Ortiz;E;MET;Estrellas;elmejji@hotmail.com;94063219;18:28.566;23:09.166;59:06.046;1:02:12.438;01:29:37;;;;;;;
+97;213;David Garcia;K;VAL;RUN MAX;daga6868@hotmail.com;16767094;18:31.726;22:47.352;59:33.815;1:02:37.157;01:24:49;;;;;;;
+98;632;Johnny Azofeifa Torres;I;SL;Sin Club;Johnnyat@gmail.com;109240562;18:33.736;24:14.408;1:01:27.609;1:05:30.126;01:41:45;;;;;;;
+99;636;Gil Garcia Cesar Augusto;K;VAL;RUN MAX;cesargil@hotmail.com;94371070;18:37.389;23:37.791;1:01:12.263;1:05:08.460;01:33:52;;;;;;;
+100;141;Harry Nuñez Sandoval;E;RIS;TRIBU TRIATLON;harrywil@gmail.com;80800328;18:37.472;22:41.742;57:21.418;1:01:36.964;01:23:02;;;;;;;
+101;211;Fernando Diaz;K;VAL;RUN MAX;ferchodiaz68@gmail.com;16737430;18:40.958;24:58.605;1:07:43.527;1:13:02.956;01:42:11;;;;;;;
+102;172;Gabriel Segura;G;BOG;Lactato Team;gabriel.segurat@gmail.com;80097347;18:41.205;23:31.123;1:03:21.484;1:06:47.497;01:35:18;;;;;;;
+103;241;Juan Carlos Alfonso Espitia;M;SL;Sin Club;alfojuan@hotmail.com;79404190;18:53.257;23:02.028;59:06.400;1:01:59.795;01:27:02;;;;;;;
+104;224;Juan Carlos Gutierrez Navarrete;K;BOG;Lactato Team;runjuanrun@hotmail.com;79248095;18:55.821;22:23.116;55:38.367;58:20.040;01:16:56;;;;;;;
+105;165;Edgar Irlen Menjuren;G;BOG;226 TB;edgarmj07@hotmail.com;79813996;18:59.414;24:00.593;1:02:38.893;1:06:18.789;01:28:45;;;;;;;
+106;177;Neptali Enrique Barrios Viloria;I;SL;Sin Club;nbarrios@gmail.com;317198;19:02.347;24:21.656;1:02:40.289;1:06:21.655;01:33:46;;;;;;;
+107;637;Hernan Gonzalez Berrio;K;SL;Sin Club;hernangonzalezberrio@yahoo.es;16763766;19:03.138;28:46.741;1:07:35.602;1:12:23.640;01:47:37;;;;;;;
+108;138;Daniel Escalante Ochoa;E;SL;Sin Club;escalet@hotmail.com;8357265;19:04.202;24:52.020;59:58.733;1:03:17.740;01:28:31;;;;;;;
+109;156;Carlos Augusto Sandino Cano;G;SL;Sin Club;C_SANDINO@HOTMAIL.COM;7706574;19:09.316;24:10.707;1:01:15.105;1:04:30.942;01:35:25;;;;;;;
+110;186;Miguel Angel Torres Rojas;I;BOG;Lactato Team;miguelatorresrojas@gmail.com;79790576;19:09.961;24:07.130;1:01:56.705;1:05:32.387;01:33:09;;;;;;;
+111;460;Jose Miguel Rubio Alba;K;BOG;Endurance Team;JOSE_M_RUBIO@HOTMAIL.COM;80416630;19:23.707;24:20.050;57:19.929;1:00:32.727;01:27:22;;;;;;;
+112;646;Hector Arturo Camacho Tovar;Q;VAL;TRICALI;arturoccm1@gmail.com;3249608;19:48.552;24:08.190;1:01:08.270;1:04:56.729;01:33:04;;;;;;;
+113;634;Jorge Ernesto Pulido Hernandez;K;SL;Sin Club;jorgepulido@hotmail.com;80414564;20:31.868;25:52.999;1:03:41.478;1:07:25.812;01:37:08;;;;;;;
+114;641;Jaime José Rueda Ramirez;K;SL;Sin Club;Jaime.j.rueda@outlook.com;72157832;20:35.842;28:24.652;1:11:06.629;1:15:36.702;01:50:07;;;;;;;
+115;619;Alexander Barrera Sanchez;E;VAL;TRICALI;alexandersanchez0421@hotmail.com;1130647231;20:41.340;25:07.333;1:09:13.464;1:12:28.448;01:39:33;;;;;;;
+116;622;Santiago Andres Barrero Vicuña;E;MET;3Sky;barrerosantiago@gmail.com;80814496;20:42.236;25:29.902;1:06:54.380;1:11:06.065;01:43:22;;;;;;;
+117;642;Wilson Cordero Chahin;K;SAN;Super Nova;wicorde@hotmail.com;91263880;20:45.180;26:04.867;1:07:39.803;1:11:48.573;01:43:49;;;;;;;
+118;179;Nelson Mauricio Oviedo Vanegas;I;SL;Sin Club;GERENCIA@PROINLTDA.COM;7693285;20:50.440;26:43.777;1:01:23.208;1:05:30.600;01:29:37;;;;;;;
+119;184;Francisco Ruiz Millan;I;SL;Sin Club;ruizfrancisco@hotmail.com;79752672;20:54.798;25:09.341;57:14.980;1:00:17.737;01:24:47;;;;;;;
+120;626;Garibaldy Valest Sandoval;G;SL;Sin Club;garibaldyjr@gmail.com;74377195;21:01.042;26:23.363;1:04:24.136;1:22:38.996;01:37:50;;;;;;;
+121;643;Jorge Luis Franco Sanchez;O;SL;Sin Club;CATA.ROA6@GMAIL.COM;19387958;21:09.392;26:50.671;1:02:32.753;1:06:28.250;01:34:43;;;;;;;
+122;651;Leopoldo Tovar Sanchez;O;SAI;Gobernacion;maritzamn@live.com;79043087;21:44.999;29:40.778;1:12:10.078;1:16:49.466;01:48:42;;;;;;;
+123;139;Lino Rodriguez;E;SL;Sin Club;lino.rod@gmail.com;80098645;21:47.095;25:46.775;1:02:41.009;1:05:15.919;01:27:57;;;;;;;
+124;628;Leonardo Roa Ortega;G;SL;Sin Club;leonardoroa@gmail.com;79953108;22:00.513;27:18.411;1:10:34.593;1:14:25.506;01:46:43;;;;;;;
+125;253;Daniel Fernando Torres Salazar;O;BOG;Lactato Team;dafetosa@gmail.com;79154822;22:07.861;26:38.393;1:02:38.379;1:06:01.166;01:32:22;;;;;;;
+126;638;Anthony Zapata;K;MET;Estrellas;anthonyzapata@msn.com;17345268;22:47.434;27:36.867;1:07:26.285;1:11:16.195;01:30:25;;;;;;;
+127;140;Edgar Andres Alarcon Leon;E;SL;Sin Club;ealarco01@gmail.com;80779554;23:21.728;28:19.070;58:26.012;1:02:22.633;01:32:17;;;;;;;
+128;195;Rodrigo Alberto Garces Sanchez;I;VAL;RUN MAX;rocogarces@hotmail.com;94325726;23:46.529;28:51.639;1:11:19.677;1:15:26.947;01:43:44;;;;;;;
+129;629;Carlos Barrero VicuÑa;G;MET;3Sky;cacebavi82@hotmail.com;80096835;23:51.729;28:47.163;1:14:38.293;1:17:57.601;01:49:17;;;;;;;
+130;240;Diego Fernando Pereira Grisales;M;VAL;RUN MAX;diego-fernando2328@hotmail.com;79403948;24:44.978;30:20.143;1:11:14.384;1:15:13.444;01:45:24;;;;;;;
+131;633;Javier Ignacio Castro Suarez;I;MET;3Sky;jcastro130@gmail.com;79664126;25:53.000;29:26.644;1:05:48.230;1:08:57.008;01:31:02;;;;;;;
+132;185;Javier Martinez;I;SL;Sin Club;javierautosell@hotmail.com;79786827;27:02.227;31:06.183;1:08:41.288;1:12:03.433;01:41:40;;;;;;;
+133;639;Pedro William Vergara Moreno;K;BOG;Escuela Colombiana de Triatlon;william69moreno@hotmail.com;80369100;27:52.439;34:24.542;1:15:10.774;1:21:48.235;01:48:22;;;;;;;
+134;236;Harol Penagos Barreto;M;SL;Sin Club;penagosmoraabogados@hotmail.com;79262427;32:00.539;38:42.473;1:22:05.052;1:26:20.955;01:38:55;;;;;;;
+135;607;Edwin Augusto Marin Salazar;PRV;SL;Sin Club;Marinedwin02@gmail.com;1054988378;23:01.748;27:59.627;1:06:11.799;1:25:56.800;01:41:40;;;;;;;
+136;627;Hector Eduardo PatiÑo Cordoba;G;VAL;RUN MAX;gueyhp@hotmail.com;75098856;1:06:03.885;1:12:07.307;1:54:31.615;1:07:25.932;;;;;;;;
+137;149;German Alonso Carranza Quiceno;E;RIS;TRIBU TRIATLON;gcarranza.q@gmail.com;1093214384;0.000;0.000;0.000;0.000;;;;;;;;
+138;153;Juan Felipe Davila Montoya;E;RIS;TRIBU TRIATLON;pipegt4@me.com;1128266334;0.000;0.000;0.000;0.000;;;;;;;;
+139;652;Julian Ortiz;E;SL;Sin Club;julianortiz@chicoqt.com;1125639240;0.000;0.000;0.000;0.000;;;;;;;;
+140;161;Victor Hugo Morales Acevedo;G;ANT.;CNMC;gerencia@aeromaquinados.com;71313577;0.000;0.000;0.000;0.000;;;;;;;;
+141;164;Alejandro Castro;G;SL;Sin Club;alecas2000@hotmail.com;79796751;0.000;0.000;0.000;0.000;;;;;;;;
+142;202;Eduar Benjumea;I;ANT.;Tritanium;eduarben@une.net.co;98526916;0.000;0.000;0.000;0.000;;;;;;;;
+143;245;Felipe Zapata Henao;M;ANT.;CNMC;felipe.zapata@hotmail.com;98541697;0.000;0.000;0.000;0.000;;;;;;;;
+144;606;Sergio Sanchez;PRV;SL;Sin Club;sergiosanchezvargas@hotmail.com;9399888;0.000;0.000;0.000;0.000;;;;;;;;
+1;45;Diana Marcela Castillo Franco;X;VAL;RUN MAX;Dimar9339@hotmail.com;1107074614;10:41.480;13:18.194;46:08.183;48:46.420;01:07:20;;;;;;;
+2;41;Maira Alejandra Vargas Vallejo;X;CAL;TRIATLETAS DEL CAFE;Malejavargas87@hotmail.com;1053781644;10:46.046;13:18.894;48:05.379;59:44.396;01:08:38;;;;;;;
+3;46;Sandra Hernandez;X;BOG;MARATLON;Catica1982@hotmail.com;52960688;10:46.555;13:22.976;48:05.535;50:45.628;01:10:31;;;;;;;
+4;56;Laura Paola Montes Perez;X;BOG;Endurance Team;montesperezlaura@gmail.com;1136883038;10:47.372;13:49.544;49:02.568;52:01.770;01:14:54;;;;;;;
+5;54;Maria Cristina Becerra Garzon;Z;BOG;226 TB;U0304056@unimilitar.edu.co;1016090350;10:56.414;13:51.116;49:03.406;51:52.210;01:13:10;;;;;;;
+6;43;Alejandra Raga Prieto;Z;QUI.;TRI4LIVE;ALEJARAGA@HOTMAIL.COM;1094940592;10:56.777;14:18.727;48:06.251;51:06.252;01:14:13;;;;;;;
+7;44;Laura Daniela Ramirez Duran;Z;BOG;TRIATLONET;lalad94@hotmail.com;1026287526;11:10.054;13:50.820;48:06.702;1:00:20.100;01:09:58;;;;;;;
+8;57;Lina Maria Raga Prieto;X;QUI.;TRI4LIVE;lina.raga@hotmail.com;1094895296;11:21.907;14:22.934;48:07.155;50:49.554;01:12:51;;;;;;;
+9;55;Fiorella Dcroz Brusatin;X;VAL;FDB;Fiorella.dcroz@gmail.com;29116337;11:22.185;14:23.132;48:08.096;50:51.750;01:11:58;;;;;;;
+10;107;Lucas/juan/andres Mantilla/valderrama/puentes;REL;SL;Sin Club;trialejo@yahoo.com.mx;10475061073;11:53.939;14:45.892;41:40.481;54:08.137;01:11:28;;;;;;;
+11;42;Pamela Holguín Gallego;X;CAL;TRIATLETAS DEL CAFE;Pamela.2070921479@ucaldas.edu.co;1060649084;12:00.104;14:31.024;48:04.511;59:44.823;01:09:23;;;;;;;
+12;52;Ana Maria Manrique Lenis;Z;VAL;TRICALI;anamaria9424@hotmail.com;1094945632;12:00.449;14:37.638;49:02.599;51:51.995;01:13:30;;;;;;;
+13;49;Erika Alejandra Ladino Herrera;X;VAL;Proyecto Colombia;alejandra-0202@hotmail.com;1115079442;12:02.039;14:42.015;49:01.906;51:52.687;01:13:25;;;;;;;
+14;47;Beatriz Arcentales Ramirez;Z;VAL;TRICALI;morgan2413.br@gmail.com;1118308147;12:23.392;15:11.816;50:14.906;53:00.948;01:13:45;;;;;;;
+15;53;Maria Carolina Velasquez Soto   ;Z;ANT.;Kronos;macaro04@hotmail.com;1036960447;12:23.686;15:14.800;50:15.510;53:03.273;01:14:15;;;;;;;
+16;555;Sofia Medina Martínez;JAD;VAL;TRICALI;sofimedinam@gmail.com;99093003477;12:24.473;15:10.868;44:41.103;57:06.101;01:19:01;;;;;;;
+17;564;Maria Camila Ortega Chavarria;JD;VAL;Proyecto Colombia;mcamilaortega2000@gmail.com;1006227009;12:27.289;15:14.339;50:17.287;53:01.905;01:13:45;;;;;;;
+18;246;Enrique Jaramillo Salazar;M;CAL;TRIARI;enriquej1964@gmail.com;1111;12:44.625;16:15.301;50:13.205;53:22.464;01:14:13;;;;;;;
+19;554;Maria Paula Jauregui Devies;JAD;VAL;TRICALI;mpjswim@gmail.com;1144105118;12:49.489;16:37.972;58:20.345;1:01:46.891;01:28:35;;;;;;;
+20;51;Dilyan Nathaly Arcila;Z;RIS;TRINITY;Natyarcila97@hotmail.com;1088030049;12:49.834;15:46.543;50:14.891;53:08.887;01:17:17;;;;;;;
+21;48;Laura Ramirez Ocampo;X;QUI.;TRI4LIVE;Larao9309@hotmail.com;1094937605;13:05.831;16:11.206;41:34.449;53:02.898;01:15:50;;;;;;;
+22;50;Verónica Gutierrez Aguado;Z;VAL;TRICALI;verogutierrz@gmail.com;1143865188;13:06.965;16:07.539;50:15.804;53:01.614;01:14:06;;;;;;;
+23;552;Maria Camila Florez Rojas;JAD;BOL;Armada Nacional;angiep1107@hotmail.com;1047504685;13:13.384;16:58.833;56:59.119;1:00:25.081;01:28:25;;;;;;;
+24;75;Adriana Rocio Tibocha Ardila;H;MET;3Sky;aportes3@cofrem.com.co;35262775;13:40.228;17:00.896;54:13.655;57:17.465;01:21:27;;;;;;;
+25;568;Maria Fernanda Marroquin Gutierrez;JD;VAL;TRICEROZ;Fernandamarroquingutierrez@hotmail.com;1002424109;13:41.510;17:01.759;55:07.742;58:31.206;01:26:34;;;;;;;
+26;556;Viviam Valeria Feria Hermoso;JAD;BOG;Escuela Colombiana de Triatlon;viviamvaleriah@gmail.com;99121200950;13:42.263;16:55.628;58:30.880;1:02:03.169;01:30:25;;;;;;;
+27;93;Claudia Marcela Forero Gonzalez;L;BOG;Endurance Team;marceforero@cable.net.co;39759434;13:43.077;17:41.002;55:42.982;59:11.769;01:24:37;;;;;;;
+28;562;Laura Jineth Hurtado Valencia;JD;BOG;MARATLON;jvicenteguerrero@hotmail.com;1010019007;13:43.117;16:37.487;54:11.553;57:03.450;01:20:16;;;;;;;
+29;58;Luisa Fernanda Zapata Lozano;B;VAL;RUN MAX;luisa.zapata@endeporte.edu.co;1107084369;13:43.636;17:03.870;54:13.575;57:02.810;01:21:56;;;;;;;
+30;567;Nataly Quiroga;JD;VAL;TRICALI;cifm1971@gmail.com;1005964616;13:43.724;17:28.397;1:02:18.504;1:05:23.248;01:33:26;;;;;;;
+31;566;Mariana Mondragon Baquero;JD;VAL;TRICALI;clublamilla@gmail.com;1010018032;13:44.511;17:26.861;1:02:48.514;1:06:22.046;01:36:24;;;;;;;
+32;59;Maria Camila Ramirez Barbosa;B;VAL;Proyecto Colombia;tricamila96@outlook.es;1115088349;13:45.230;16:41.128;44:59.686;57:03.205;01:23:47;;;;;;;
+33;518;Catalina Arbelaez Trujillo;B;VAL;TRICALI;akt_14696@hotmail.com;114409199;13:46.846;17:07.631;56:19.217;59:43.636;01:25:11;;;;;;;
+34;569;Liceth Julianny Mendez Gomez;JD;VAL;TRICALI;licethmendez2@gmail.com;1010095648;14:10.428;17:26.688;55:44.042;58:51.021;01:22:04;;;;;;;
+35;101;Adriana Beron;N;VAL;RUN MAX;adrianaberon@yahoo.com;31970305;14:14.245;19:05.969;58:26.932;1:02:18.258;01:28:29;;;;;;;
+36;63;Diana Paola Tovar Correa;D;MET;3Sky;Dianis_tovar@hotmail.com;1047422820;14:31.494;18:35.027;58:29.866;1:02:08.432;01:30:03;;;;;;;
+37;520;Luisa Fernanda Muñoz Perea;B;VAL;RUN MAX;Lulisperea94@gmail.com;1112627963;14:46.974;18:40.127;58:24.908;1:02:17.267;01:29:58;;;;;;;
+38;519;Maria Catalina Gomez Quiza;B;HUI;UTRAHUILCA;mariacagoqui@gmail.com;1032471730;15:01.971;18:20.032;55:41.507;58:44.310;01:21:34;;;;;;;
+39;181;Rafael Jaramillo;I;CAL;TRIARI;rj@rafaeljaramillos.com;75084582;15:04.832;19:15.417;55:27.131;58:53.544;01:22:10;;;;;;;
+40;262;Julian/marta/sebastian Trujillo/cifuentes/padron;REL;SL;Sin Club;trialejo@yahoo.com.mx;793380313;15:13.654;20:55.944;49:04.134;1:02:16.119;01:24:58;;;;;;;
+41;94;Mónica Torres Ruiz;L;ANT.;Saffetti;Vertigoexperiencial@gmail.com;42684008;15:20.407;19:49.325;58:31.829;1:02:09.665;01:29:32;;;;;;;
+42;105;María Mercedes Zambrano Eder;P;SL;Sin Club;mechaszambrano@gmail.com;31874035;15:23.469;20:03.163;58:51.997;1:03:03.718;01:31:35;;;;;;;
+43;62;Laura Susana Arango Correal;D;MET;3Sky;arango.laura89@hotmail.com;1020746982;15:25.097;19:27.166;58:32.789;1:02:06.604;01:27:21;;;;;;;
+44;563;Andrea Nataly Manrique MagÉ;JD;CAU.;Neptuno;natalymanrique@hotmail.com;1002970089;15:28.538;18:56.339;59:27.857;1:03:26.242;;;;;;;;
+45;553;Diana Urquijo Cardona;JAD;CAU.;TRICAUCA;Dianuc.du@gmail.com;1061813007;15:29.070;18:56.325;1:03:58.986;1:07:23.695;01:34:46;;;;;;;
+46;69;Verónica Andrea Romero Duarte;F;SL;Sin Club;kharown@gmail.com;1032370108;15:29.717;19:47.268;58:52.096;1:02:36.469;01:27:19;;;;;;;
+47;91;Lina Sandoval;L;SL;Sin Club;comercial@autonext.co;39620448;16:02.266;21:17.948;1:05:05.579;1:22:06.488;01:34:11;;;;;;;
+48;653;Catalina Gallon Quintana;J;SAI;Gobernacion;flinagallon@hotmail.com;40989405;16:49.484;21:13.775;1:07:13.715;1:11:39.748;01:40:22;;;;;;;
+49;535;Laura Parra Quintero;F;SL;Sin Club;laura.parra.rtv@gmail.com;53176677;16:51.058;22:15.843;1:01:01.134;1:16:06.157;01:47:26;;;;;;;
+50;87;Marcela Perez Salcedo;J;SL;Sin Club;interes7@yahoo.com;52635635;16:59.152;20:57.148;49:44.320;1:03:35.824;01:29:42;;;;;;;
+51;529;Rosey Muñoz Castro;F;SL;Sin Club;rosmu17@gmail.com;111830338;17:14.271;21:09.972;58:51.703;1:02:29.696;01:28:33;;;;;;;
+52;64;Diana Isabel Woodcock Ceron;D;BOG;Escuela Colombiana de Triatlon;Dianaiwc35@gmail.com;1085268139;17:20.766;21:09.629;58:47.071;1:02:29.387;01:26:59;;;;;;;
+53;516;Mariana Franco;B;SL;Sin Club;mrnafranco@hotmail.com;1070922697;17:22.106;21:15.765;1:05:36.951;1:09:35.554;01:38:20;;;;;;;
+54;541;Angelica Marian Rincon Baquero;J;SL;Sin Club;angelicarinconbaquero@yahoo.com;52144137;17:22.729;22:14.404;1:05:10.806;1:10:08.845;01:41:33;;;;;;;
+55;98;Lilla Szekessy;N;VAL;RUN MAX;lszekessy@gmail.com;204372;17:25.454;22:22.665;59:49.961;1:03:56.211;01:31:44;;;;;;;
+56;96;Andrea García Marulanda;L;SL;Sin Club;andrea_ciardelli@hotmail.com;51992609;17:26.076;22:18.480;58:25.766;1:02:44.056;01:30:22;;;;;;;
+57;81;Angela Gil;H;VAL;RUN MAX;Angelagil2008@hotmail.com;52721666;17:27.008;21:34.474;58:51.225;1:02:41.017;01:28:53;;;;;;;
+58;66;Alexandra Suarez Alegria;D;VAL;RUN MAX;alexandrasuareza@hotmail.com;1144033603;17:27.994;22:20.464;1:02:49.015;1:07:09.396;01:44:58;;;;;;;
+59;72;Alejandra Fernández Lemos;H;VAL;RUN MAX;Alejandra.fernandezlemos@gmail.com;31579744;17:30.217;21:38.499;59:26.682;1:03:50.089;01:30:44;;;;;;;
+60;90;Ana Lucia Cantor Gómez;J;VAL;RUN MAX;dramuelitas@hotmail.com;67002397;17:30.997;21:28.420;58:26.264;1:02:22.308;01:28:29;;;;;;;
+61;600;Katherine Castillo;PRD;SL;Sin Club;katherine180780@hotmail.com;52715409;17:31.592;22:51.387;1:04:34.060;1:08:48.506;01:36:07;;;;;;;
+62;82;Marian Lorena Ibarra Avila;H;SL;Sin Club;imarianlorena@gmail.com;52802026;17:57.269;22:29.525;51:35.190;1:06:34.593;01:36:27;;;;;;;
+63;102;Gloria Alejandra Acosta Cruz;N;VAL;RUN MAX;guga_acosta67@hotmail.com;31971638;18:01.194;23:12.505;1:00:59.117;1:05:38.853;01:34:54;;;;;;;
+64;565;Luisa Fernanda Ortiz Soto;JD;CAL;TRIATLETAS DEL CAFE;luisafernandaortiz21@gmail.com;1007231597;18:13.072;22:26.598;1:01:56.009;1:05:43.742;01:32:59;;;;;;;
+65;76;Tatiana Marcela Valbuena Vargas;H;VAL;RUN MAX;tatiana.valbuena@hotmail.com;38552195;18:16.253;22:31.607;1:01:21.959;1:05:44.846;01:32:09;;;;;;;
+66;258;Giselle Natalia Hernández González;D;SAN;Super Nova;gnhernandez@misena.edu.co;1116795026;18:16.774;21:41.364;58:52.634;1:02:25.605;01:26:10;;;;;;;
+67;517;Karen Dayana Gordillo Correa;B;MET;3Sky;Karend32@hotmail.com;1144068748;18:23.371;22:30.787;1:01:00.713;1:04:43.184;01:28:01;;;;;;;
+68;84;Linna Maria Montoya Escobar;J;VAL;RUN MAX;limamoes@gmail.com;43747924;18:25.749;22:49.038;1:04:10.367;1:08:51.509;01:47:07;;;;;;;
+69;65;Ana Maria Valencia Castellanos;D;VAL;RUN MAX;anamvalencia26@gmail.com;1144029158;18:25.872;22:49.426;1:04:11.068;1:08:03.461;01:35:34;;;;;;;
+70;545;Diana Mejia Mejia Saldarriaga;J;SL;Sin Club;djmsmr@gmail.com;66901878;18:26.355;24:59.434;1:11:25.277;1:17:04.607;01:49:50;;;;;;;
+71;528;Angeline Giraldo Salazar;F;SL;Sin Club;Angie.giraldo@hotmail.com;38641369;18:27.852;25:26.340;1:12:28.843;1:18:34.786;01:48:34;;;;;;;
+72;99;Maria Clara Sanchez Lopez;N;VAL;TRICALI;maria-c-sanchez@hotmail.com;31171438;18:33.137;24:11.722;54:52.141;1:23:20.645;;;;;;;;
+73;70;Paola Andrea Jimenez Torres;H;VAL;TRICALI;jimenez0902@hotmail.com;29178689;18:33.465;22:54.100;1:00:58.401;1:04:36.223;01:30:44;;;;;;;
+74;88;María Del Pilar Sandoval Romero;J;VAL;RUN MAX;Pily1803@gmail.com;66853142;18:37.140;24:04.033;54:54.359;1:24:18.239;01:39:29;;;;;;;
+75;86;Sandra Patrica Mendoza Suarez;J;BOG;226 TB;sandingeu@yahoo.com;52435508;18:49.574;23:13.901;1:01:47.886;1:05:13.377;01:29:19;;;;;;;
+76;530;Maria Karina Vargas Loria;F;SL;Sin Club;ninavargas@gmail.com;205870969;18:59.102;23:49.028;53:53.192;1:07:25.800;01:32:51;;;;;;;
+77;267;Tatiana Maidens Camelo;D;MET;3Sky;tatimaidens@gmail.com;1136879995;19:05.785;23:24.107;55:23.405;1:10:41.290;01:35:57;;;;;;;
+78;527;Vanessa Chamorro Tombe;D;VAL;TRICALI;brillastars9@hotmail.com;1144140629;19:11.864;23:38.398;59:53.409;1:03:42.503;01:32:22;;;;;;;
+79;599;Valeria Costa Barney;PRD;SL;Sin Club;ateneacosta.82@gmail.com;1034304766;19:12.159;26:21.598;1:02:26.404;1:20:17.811;01:58:36;;;;;;;
+80;78;Maria Camila Parra Cortes;H;BOG;Lactato Team;mcmaiparra10@gmail.com;52200088;19:13.802;25:35.377;1:13:02.052;1:30:28.891;02:03:58;;;;;;;
+81;60;Andrea Catalina Guevara Izquierdo;D;BOG;Lactato Team;salasvernot@gmail.com;1010186886;19:14.479;24:19.985;54:50.786;1:09:01.072;01:35:57;;;;;;;
+82;522;Katrina Rengifo Huertas;D;SL;Sin Club;Katri_rh0323@hotmail.com;1130682364;19:14.574;24:58.857;1:08:12.841;1:12:09.992;01:38:17;;;;;;;
+83;551;Andrea María Aljure Dorronsoro;N;VAL;RUN MAX;aaljured@gmail.com;66704787;19:23.169;27:32.267;1:18:17.175;1:25:10.058;02:03:12;;;;;;;
+84;89;Sandra Virginia Rivera Collazos;J;VAL;RUN MAX;sriverac_14@hotmail.com;66901412;19:43.534;25:30.761;59:26.318;1:15:33.321;01:47:08;;;;;;;
+85;77;Andrea Maritza Mesa Salcedo;H;SL;Sin Club;andreamesah@gmail.com;46377964;19:44.005;24:19.940;53:48.490;1:07:24.651;01:30:54;;;;;;;
+86;71;Carolina Rios Villota;H;VAL;TRICALI;caambas@yahoo.com;31573363;19:48.280;26:37.375;1:01:45.319;1:20:02.564;02:03:39;;;;;;;
+87;208;Carlos Eduardo Velez Ocampo;K;CAL;TRIARI;carlosvelez@inyekto.com;10286190;19:48.587;25:38.219;1:04:06.055;1:08:20.574;01:36:03;;;;;;;
+88;73;Leidy Yuliana Munera Mesa;H;ANT.;Actimax;leidymune@hotmail.com;32183544;20:01.850;25:37.366;1:11:29.001;1:15:41.894;01:47:37;;;;;;;
+89;85;Lina Isaza;J;BOG;Lactato Team;isaza_lina@hotmail.com;52386839;20:02.273;27:59.441;1:03:35.582;1:22:38.551;02:06:15;;;;;;;
+90;604;Juliette Gonzalez Pulido;PRD;SL;Sin Club;julie9gon@gmail.com;53072239;20:23.592;26:44.511;58:43.011;1:14:38.067;01:45:19;;;;;;;
+91;544;Olga Lucia Reyes;J;VAL;RUN MAX;o_reyes_restrepo@hotmail.com;66777330;20:26.709;27:47.336;1:01:19.939;1:18:24.533;01:52:36;;;;;;;
+92;525;Estefania Castellanos;D;MET;3Sky;estefania.cp17@hotmail.com;1026275079;20:27.727;26:36.773;1:14:23.245;1:20:04.298;02:01:51;;;;;;;
+93;103;Martha Isabel Restrepo Murillo;P;QUI.;Agua y Vida;martres@me.com;24602726;20:29.611;26:04.433;58:38.333;1:14:12.025;01:46:46;;;;;;;
+94;100;Ana Maria Reyes Murgueitio;N;VAL;TRICALI;amreyes63@gmail.com;31896645;20:33.280;26:35.943;59:00.648;1:14:47.466;01:51:35;;;;;;;
+95;104;Gina Tatiana Monge Muñoz;P;VAL;TRICALI;tatianamongemunoz@hotmail.com;31841075;20:33.976;26:48.415;1:00:43.486;1:18:44.416;01:54:03;;;;;;;
+96;546;Angelica Maria Garcia Garcia;J;CAL;TRIARI;kekagarcia2009@hotmail.com;303282078;20:35.283;27:16.074;1:04:15.277;1:21:22.556;01:51:07;;;;;;;
+97;534;Angela Jimenez Maldonado;F;SL;Sin Club;jimenezmangela@gmail.com;1053767097;20:53.631;27:00.495;49:39.200;1:17:48.718;01:54:52;;;;;;;
+98;601;Marcela Huertas Bello;PRD;MET;Estrellas;monipao11@hotmail.com;1020755068;21:01.946;27:35.972;1:08:11.454;1:25:18.426;02:00:33;;;;;;;
+99;67;Andrea Duque Rodríguez;F;VAL;RUN MAX;andreaduque85@hotmail.com;29683924;21:05.686;25:28.857;55:47.319;1:08:04.451;01:37:32;;;;;;;
+100;97;Luisa Fernanda Monje MuÑoz;L;VAL;TRICALI;luisafmonge@gmail.com;66835726;21:07.094;26:35.608;1:09:35.125;1:14:11.013;01:40:49;;;;;;;
+101;526;María Camila Parra Daza;D;MET;3Sky;marycparrad@hotmail.com;1143329515;21:07.212;26:33.420;1:17:09.952;1:21:09.409;01:54:30;;;;;;;
+102;533;Maria Viviana Bernal Orozco;F;MET;Estrellas;mv.bernal@hotmail.com;52816954;21:08.007;26:03.445;55:50.772;1:10:16.291;01:38:20;;;;;;;
+103;515;Angela Maria Velez Cruz;B;SL;Sin Club;angievelez19@hotmail.com;1037626879;21:08.639;26:48.985;1:10:48.746;1:15:37.508;01:51:27;;;;;;;
+104;548;Diana Lorena Fuenmayor;L;SL;Sin Club;dianafuenma@hotmail.com;66812276;21:17.461;27:37.123;50:28.355;1:18:31.874;01:47:35;;;;;;;
+105;83;Adelia Johanna Guerrero Jimenez;H;SL;Sin Club;Johannaguerrero@hotmail.com;52862365;21:27.229;27:21.830;1:08:49.146;1:14:13.283;01:42:17;;;;;;;
+106;602;Paola Andrea Pelaez Troncoso;PRD;SL;Sin Club;Pao233@hotmail.com;29178705;22:21.049;28:29.721;1:00:48.931;1:15:40.139;01:40:44;;;;;;;
+107;658;Paula Johanna Jaimes De La Hoz;X;SL;Sin Club;paula.jaimes@gmail.com;52452806;22:31.017;33:36.255;58:49.653;1:28:35.880;02:04:34;;;;;;;
+108;547;Angela Maria Velasco Parra;J;SL;Sin Club;Angelavelpar@hotmail.com;66904231;22:38.793;28:28.859;1:13:25.901;1:18:04.840;01:47:29;;;;;;;
+109;68;Karen Lorena Robles Lesmes;F;BOG;Lactato Team;krobleslesmes@gmail.com;53120815;22:42.678;29:51.393;1:02:51.395;1:19:13.101;01:47:30;;;;;;;
+110;260;Angela Maria Lince;H;VAL;RUN MAX;angelalince@homail.com;29117647;22:51.066;32:08.002;1:03:52.144;1:19:16.792;01:48:19;;;;;;;
+111;95;Doris Bustamante;L;SL;Sin Club;alfojuan@hotmail.com;43742087;23:06.789;27:50.248;47:44.533;1:14:11.412;01:41:19;;;;;;;
+112;521;Juliana Contreras;D;SL;Sin Club;julicon12@gmail.com;1019038615;23:23.453;28:40.833;59:54.489;1:15:54.123;01:43:09;;;;;;;
+113;80;Diana Marcela GonzÁlez Chaparro;H;BOG;Lactato Team;dmgonzalez79@gmail.com;52705827;23:35.523;29:24.687;1:27:09.938;1:31:15.659;02:02:19;;;;;;;
+114;264;Ilse/nidia/fabian Gordon/gasca/mosquera;REL;SL;Sin Club;trialejo@yahoo.com.mx;313042643;23:44.151;29:01.859;1:09:27.139;1:13:25.558;01:38:48;;;;;;;
+115;92;María Angelica Pérez Salcedo;L;BOG;Endurance Team;angelicaps_@hotmail.com;39668205;23:48.145;29:00.724;1:11:33.414;1:15:30.000;01:43:34;;;;;;;
+116;537;Ana María Olarte Segovia;H;BOG;Lactato Team;anamaolarte@yahoo.com;52864632;23:49.046;31:27.893;1:18:20.939;1:23:46.972;01:59:39;;;;;;;
+117;543;Claudia Marcela Gonzalez Posada;J;ANT.;Actimax;claugo@une.net.co;43750631;24:18.013;30:21.492;1:16:12.191;1:20:41.284;01:49:25;;;;;;;
+118;536;Ana Maria Alvarez;H;SL;Sin Club;anamariaalvarezm@hotmail.com;52516513;24:42.962;32:52.163;58:44.667;1:28:04.349;01:57:45;;;;;;;
+119;542;Antonieta Hernandez;J;SL;Sin Club;mariantoh10@hotmail.com;401640391;24:56.403;30:49.956;1:13:23.019;1:18:18.061;01:50:29;;;;;;;
+120;266;Juliana Jaramillo Ospina;H;SL;Sin Club;juliana.jaramillo@gmail.com;24584503;25:03.645;31:11.751;59:27.121;1:32:26.869;02:11:05;;;;;;;
+121;538;Eugenia Ángel Rengifo;H;ANT.;Titanes;eugenia.angel@epm.com.co;32350635;25:13.807;33:16.416;1:10:53.263;1:28:14.241;02:04:38;;;;;;;
+122;523;Ana Maria Mendez Mejia;D;SL;Sin Club;ANAMARIAMENDEZ88@GMAIL.COM;1020730891;26:00.248;31:14.734;1:04:20.163;1:20:03.744;01:43:37;;;;;;;
+123;61;Silvia María Pérez Leal;D;MET;Estrellas;silviaperez91@hotmail.com;1019060307;27:17.909;32:54.143;1:05:13.198;1:20:41.751;01:49:45;;;;;;;
+124;654;Lina Marcela Chavarro Castrillón;H;VAL;TRICALI;linamach82@yahoo.com;31710185;27:29.466;32:16.485;1:02:28.024;1:16:52.509;01:46:11;;;;;;;
+125;79;Yecenia Sabogal Sainea;H;BOG;226 TB;Yecesainea@yahoo.com.mx;52445811;28:10.613;34:02.120;1:08:53.776;1:24:26.429;01:50:12;;;;;;;
+126;549;Jannethe Ordonez Rincon;L;SL;Sin Club;calijan@yahoo.com;51961773;28:39.713;34:24.021;1:32:34.891;1:37:53.373;02:13:51;;;;;;;
+127;597;Josefina Ayerbe Camayo;PRD;SL;Sin Club;josefinayerbe@hotmail.com;34554082;29:00.796;36:02.474;1:09:59.842;1:27:28.216;02:01:15;;;;;;;
+128;603;Ludy Obando;PRD;SL;Sin Club;ludyobando@gmail.com;65759475;29:02.548;35:46.365;59:14.252;1:28:04.269;01:59:05;;;;;;;
+129;540;Edna Jacqueline Torres Delgado;H;SL;Sin Club;jackytorres0604@gmail.com;65784972;31:20.458;37:13.355;1:11:23.394;1:28:46.165;02:08:09;;;;;;;
+130;598;Carmenza Mendez;PRD;HUI;UTRAHUILCA;cmendezbejarano@gmail.com;51736745;32:59.476;38:20.142;1:12:53.275;1:18:32.191;01:32:21;;;;;;;
+131;657;Gloria Patricia Tapie Guerrero;F;VAL;TRICALI;sirenitagloripatri@gmail.com;67031384;0.000;0.000;0.000;0.000;00:52:41;;;;;;;
+132;163;Nicolas Jaramillo;G;CAL;TRIARI;ingenieronjh@gmail.com;75098526;0.000;2:20.299;10:35.298;26:00.675;01:19:25;;;;;;;
+133;74;Eugenia Zuluaga Largo;H;CAL;TRIATLETAS DEL CAFE;eugezuluaga@yahoo.es;34001052;0.000;0.000;0.000;0.000;;;;;;;;
+134;259;Pilar Valdez Benavides;J;VAL;RUN MAX;Pilval67011@gmail.com;67011466;0.000;1:01.722;20:38.210;36:51.747;00:48:55;;;;;;;
+1;27;Samir Steven Sandoval Amaya;W;VAL;RUN MAX;sandovalsamir678@gmail.com;1113654795;10:41.495;13:08.186;43:47.328;45:33.041;01:04:14;;;;;;;
+2;4;Juan Sebastian Rubio Cardozo;W;ANT.;Tritanium;juansrubioc@gmail.com;1016050614;10:42.711;12:57.767;42:46.337;44:17.734;01:01:08;;;;;;;
+3;10;Carlos Federico Iriarte Rincon    ;W;ANT.;Kronos;federicoiriarte90@gmail.com;1152188152;10:43.479;13:02.578;36:14.818;45:25.423;01:04:03;;;;;;;
+4;3;Brian Esteban Moya Manrique;W;BOG;226 TB;brianmoya_vitus@hotmail.com;1022384390;10:43.938;12:56.830;42:46.139;44:12.916;01:00:29;;;;;;;
+5;5;Hugo Mario Ruiz Dimate;Y;VAL;RUN MAX;Hugo123ruiz@gmail.com;1144203533;10:44.347;12:53.426;42:46.756;44:18.426;01:01:25;;;;;;;
+6;1;Carlos Javier Quinchara Forero;W;BOG;226 TB;carjaquinfo@hotmail.com;1020733440;10:44.550;12:55.898;42:45.379;44:11.410;01:00:17;;;;;;;
+7;2;Eduardo Londoño Naranjo;Y;CAL;TRIATLETAS DEL CAFE;eduardolondo97@hotmail.com;1053860510;10:47.601;13:07.391;43:46.439;45:21.493;01:03:11;;;;;;;
+8;34;Juan Jose Cano Castillo;Y;VAL;TRICALI;juanjosecanocastillo@gamil.com;1107517124;10:50.619;13:07.008;43:46.789;45:40.164;01:03:47;;;;;;;
+9;7;Felipe Rodriguez;W;BOG;Endurance Team;piperod85@gmail.com;80811680;10:50.902;13:12.933;36:08.372;1:27:06.993;;;;;;;;
+10;14;Nestor Ivan Ramirez Duran;Y;BOG;TRIATLONET;nestorivan00@hotmail.com;1020809852;10:51.287;13:16.559;21:06.904;1:57:48.329;;;;;;;;
+11;649;Jhon Alejandro Gallego Quintero;C;FA;ESMIC;alejomayin5@hotmail.com;1088297576;10:52.030;13:31.948;43:49.175;45:45.910;01:06:37;;;;;;;
+12;16;Jorge Eduardo Arias;W;RIS;TRINITY;Jorgeariastri@gmail.com;10032916;10:53.870;13:36.534;43:46.324;45:22.106;01:03:52;;;;;;;
+13;30;Edgar Andres Bermudez Muñoz;Y;VAL;TRICEROZ;edgar.1699@hotmail.com;1115092420;10:59.655;13:16.071;43:46.904;45:25.681;01:03:55;;;;;;;
+14;6;Felipe Santiago Ladino Herrera;W;VAL;Proyecto Colombia;felipechraist@hotmail.com;1115075260;11:03.530;13:36.172;43:50.909;45:31.272;01:06:38;;;;;;;
+15;12;Santiago Henao Grisales;Y;RIS;TRIBU TRIATLON;STIAGOHENAO@GMAIL.COM;1088032034;11:16.693;14:06.583;23:34.993;12:06.396;;;;;;;;
+16;31;Juan Jose Cadavid Arellano;JAV;ANT.;Kronos;JCADAVIDARELLANO@HOTMAIL.COM;1040050656;11:18.522;13:48.855;36:12.449;45:40.251;01:05:59;;;;;;;
+17;137;Diego Alejandro Restrepo Carvajal;C;ANT.;Titanes;diegoares37@hotmail.com;1152187116;11:19.223;13:55.762;45:07.100;46:48.290;01:06:27;;;;;;;
+18;8;David Alberto Guete Quintero;W;BOG;Escuela Colombiana de Triatlon;david.g_77@hotmail.com;1016036549;11:20.190;13:45.966;43:50.645;45:30.857;01:02:46;;;;;;;
+19;28;Samid Silva;W;CAL;TRIATLETAS DEL CAFE;samidcuenca@outlook.es;1075271604;11:22.946;13:45.680;43:47.240;45:25.618;01:04:15;;;;;;;
+20;560;Yeison David Lopez Tenjo;JAV;SAN;Titanes;yeisontenjo@gmail.com;99050813467;11:23.145;14:07.799;45:10.841;47:26.891;01:07:06;;;;;;;
+21;9;Hernan Dario Valero;W;BOG;Endurance Team;dariotri@gmail.com;80726436;11:26.066;13:54.839;43:46.707;45:41.532;01:04:46;;;;;;;
+22;589;Johan Camilo Mellizo Guerrero;JBV;VAL;CINAAT;Camilomelliizo@gmail.com;1005869074;11:26.202;14:09.346;45:12.882;47:04.984;01:06:52;;;;;;;
+23;561;Alejandro Gomez Gonzalez;JAV;BOG;MARATLON;alejogomez1226@live.com;99071912147;11:37.350;14:26.584;48:05.996;50:07.612;01:10:10;;;;;;;
+24;22;Alejandro Nicolas Chavez Prieto;W;BOG;Endurance Team;ALE8NICOLAS5@GMAIL.COM;80872865;11:39.838;14:10.683;45:11.341;47:12.303;01:05:09;;;;;;;
+25;118;Juan Sebastian Ulloa Bonilla;C;MET;Estrellas;sebastian.ulloa3@gmail.com;1010183001;11:42.577;14:42.588;47:46.994;49:41.307;01:10:33;;;;;;;
+26;18;Ricardo Andres Mosquera Valderrama;Y;HUI;UTRAHUILCA;mosquerar622@gmail.com;1075296465;11:44.429;14:20.845;45:04.186;46:43.259;01:05:42;;;;;;;
+27;13;Diego Fernando Vallejo Soto;W;CAL;TRIATLETAS DEL CAFE;diegogo34@gmail.com;1053808456;11:46.918;14:21.255;45:04.709;46:37.041;01:04:30;;;;;;;
+28;559;Jose David Rey Bautista;JAV;SAN;Titanes;Josedavid.p99@gmail.com;1007776022;11:50.744;14:44.292;47:46.344;49:55.827;01:14:16;;;;;;;
+29;586;Esteban Tibocha Rodriguez;JBV;MET;3Sky;triesteban2702@gmail.com;1000622050;11:51.235;14:23.304;49:51.513;51:52.831;01:13:09;;;;;;;
+30;594;Yimer Esteban Triana PeÑa;JBV;MET;3Sky;jassoneiefd@yahoo.es;1124822189;11:51.969;14:23.796;45:10.206;47:40.621;01:09:00;;;;;;;
+31;15;Jacobo Bernal Arias;Y;RIS;TRIBU TRIATLON;jacobo23@utp.edu.co;1053853590;11:55.666;14:19.497;45:08.977;46:42.577;01:05:12;;;;;;;
+32;11;Simon David Muñetones;W;ANT.;Universidad Antioquia;daniel@casanest.com;1036634996;11:58.821;14:19.289;45:05.853;46:39.793;01:05:19;;;;;;;
+33;618;Claudio Enrique Monsalve Gonzalez;C;VAL;TRICALI;carbono221@hotmail.com;1130618302;12:00.147;14:45.336;45:06.679;46:55.402;01:07:04;;;;;;;
+34;20;Shamyr Aly Forero;W;VAL;TRICALI;Shamyraly@gmail.com;1144027798;12:02.190;14:52.893;45:06.435;47:01.786;01:09:59;;;;;;;
+35;26;Andres Felipe Rodriguez Rueda;W;SAN;Campestre Bucaramanga;andrestr3im@gmail.com;1098631114;12:04.513;14:40.720;45:05.330;46:57.423;01:05:25;;;;;;;
+36;24;Raul Rene Hernandez Acosta;W;SAN;Manikthlon;aventurero_1415@hotmail.com;1095809725;12:05.394;14:37.326;45:08.326;46:59.238;;;;;;;;
+37;17;Juan Jose Giraldo Gomez;Y;ANT.;Politecnico Colombiano Jaime Isaza;juanjo121297@hotmail.com;1038417113;12:05.929;14:42.663;45:09.415;47:00.748;01:06:55;;;;;;;
+38;269;Cristian Camilo Salomon Cardenas;W;FA;ESMIC;salotri88@gmail.com;1053789547;12:07.688;14:42.646;45:07.808;46:59.899;01:05:40;;;;;;;
+39;129;Jonathan Alexander Cambindo Arango;C;FA;ESMIC;jhonac04@hotmail.com;1073162355;12:12.095;14:47.041;45:08.539;47:07.047;01:06:25;;;;;;;
+40;19;Ismael Jose Vanegas Ramirez;W;HUI;UTRAHUILCA;isma524@hotmail.com;1075213267;12:13.321;14:45.430;45:08.910;46:57.822;01:06:05;;;;;;;
+41;612;Kevin Serrano Mojica;A;SAI;Gobernacion;maritzamn@live.com;1123631085;12:13.738;14:51.174;33:53.432;56:17.687;01:18:06;;;;;;;
+42;595;Cristian Andres Triana PeÑa;JBV;MET;3Sky;jassoneiefd@yahoo.es;1124822190;12:15.386;14:48.055;47:45.440;49:41.751;01:09:50;;;;;;;
+43;574;Juan Pablo Hurtado Arce;JBV;VAL;TRICEROZ;yojuanpistir@gmail.com;1006210805;12:16.170;14:50.007;48:05.468;50:10.494;01:09:25;;;;;;;
+44;592;Juan Camilo Villa Dorado;JBV;VAL;RUN MAX;jcvilladorado@gmail.com;1006206196;12:24.455;15:06.941;48:05.057;49:55.314;01:10:59;;;;;;;
+45;35;Santiago Guevara Marin;Y;VAL;TRICALI;santi.guevara@gmail.com;1094963099;12:27.923;15:13.788;48:15.660;50:16.258;01:09:59;;;;;;;
+46;257;Juan David Zuñiga Medina;A;SAI;Gobernacion;maritzamn@live.com;1123631235;12:32.281;16:24.949;44:06.187;56:59.942;01:29:56;;;;;;;
+47;610;Daniel Ospina Aguirre;A;SL;Sin Club;betospina23@hotmail.com;1026287100;12:36.632;16:02.577;54:52.257;57:02.669;01:24:07;;;;;;;
+48;32;Luis Edgar Vidal Gutierrez;Y;HUI;UTRAHUILCA;luisedgarvidalgutierrez@gmail.com;1234338029;12:39.820;15:20.151;48:14.795;50:18.953;01:10:29;;;;;;;
+49;115;Juan Sebastian Mahecha Gomez;A;VAL;RUN MAX;mahecha29@hotmail.com;1107086302;12:43.946;15:19.267;48:03.907;49:53.980;01:11:24;;;;;;;
+50;650;Brandon David Garcia Hernandez;JBV;SL;Sin Club;BDGH5101@gmail.com;1007340176;12:45.698;15:57.037;52:56.903;54:58.128;01:23:28;;;;;;;
+51;127;Camilo Gaitan Maldonado;C;VAL;TRICALI;cagaitanma@gmail.com;1032444895;12:47.946;16:06.089;41:42.807;52:42.397;01:16:42;;;;;;;
+52;593;Santiago Castañeda Pinzon;JBV;HUI;UTRAHUILCA;sancapi@hotmail.com;1007465711;12:52.145;16:00.688;50:01.825;52:04.271;01:16:34;;;;;;;
+53;571;David Holguin Saavedra;JBV;QUI.;Agua y Vida;juankhol@yahoo.com;1005088647;12:53.773;15:46.062;50:23.733;52:21.665;01:13:57;;;;;;;
+54;134;Omar Enrique Betancourt Quevedo;C;MET;3Sky;omarbet_6@hotmail.com;1121871001;12:58.764;16:18.267;51:01.666;53:23.168;01:17:40;;;;;;;
+55;21;Juan Carlos Arenas;W;MET;3Sky;fiatm@rocketmail.com;79979933;13:00.451;15:53.379;49:10.919;51:06.916;01:12:34;;;;;;;
+56;114;Jhony Alejandro Cortés Ramírez;A;TOL;TRIPAMA;jhony-cortes96@hotmail.com;1106898382;13:05.059;16:30.695;40:46.358;51:34.353;01:14:15;;;;;;;
+57;23;German David Diaz Ramirez;W;QUI.;ESPARTA;g.david.d.r@hotmail.com;1094899870;13:10.808;15:51.637;40:09.612;50:07.105;01:10:10;;;;;;;
+58;111;Mateo Giraldo Monsalve;A;CAL;TRIATLETAS DEL CAFE;mateo-giraldo97@hotmail.com;1053862414;13:14.233;16:18.075;52:47.490;54:44.675;01:16:36;;;;;;;
+59;591;Jorge David Garcia Marín;JBV;CAU.;TRICAUCA;manzo.nora@gmail.com;1005969460;13:26.497;16:19.929;45:11.108;47:28.329;01:10:48;;;;;;;
+60;29;Jonathan Jahir Celis Espinosa;Y;SAN;Titanes;jonathancelis16@gmail.com;1090499355;13:29.529;16:07.514;49:09.448;51:19.619;01:09:44;;;;;;;
+61;584;SebastiÁn Fuentes Trujilo;JBV;BOG;MARATLON;sefut242@hotmail.com;1000337765;13:30.203;17:18.598;55:08.344;57:37.420;01:22:40;;;;;;;
+62;113;Marco Aurelio Rueda Santana;A;SAN;Titanes;marcorueda_@hotmail.com;1098735273;13:30.695;17:06.909;51:51.469;54:36.922;01:22:40;;;;;;;
+63;587;Juan Diego Ramirez Aguilera;JBV;BOG;Escuela Colombiana de Triatlon;diegorjuancho@gmail.com;1000796277;13:32.580;16:52.338;46:18.263;58:51.170;01:34:31;;;;;;;
+64;126;David Gonzalez Vargas;C;SL;Sin Club;dago477@hotmail.com;1032439712;13:34.270;16:53.682;57:03.906;59:41.695;01:23:07;;;;;;;
+65;580;Juan Manuel Barboza Nader;JBV;COR;Tornados;jmbn0927@gmail.com;1003503881;13:37.323;17:01.970;50:11.347;52:25.956;01:15:03;;;;;;;
+66;106;John Carlos Florez Ruiz;JAV;BOL;Armada Nacional;johnflorezbeltran@yahoo.com;1020833387;13:44.527;17:02.276;46:06.435;1:00:31.687;01:23:21;;;;;;;
+67;656;Mauricio Vidania;C;SAI;Gobernacion;maritzamn@live.com;1020753523;13:45.575;16:54.365;25:28.058;14:40.686;;;;;;;;
+68;133;Ericsson Jhanpiare Duran Pardo;C;MET;Ironman;fretri@hotmail.com;1121859299;13:46.463;17:28.437;43:54.243;14:57.996;;;;;;;;
+69;122;Juan Camilo Castro Rodriguez;C;SL;Sin Club;juancasr41@gmail.com;1020748431;13:51.287;17:58.326;46:17.033;58:28.905;01:21:15;;;;;;;
+70;123;Nicolas Porras Guzman;C;BOG;Escuela Colombiana de Triatlon;nicolas50683@hotmail.com;1020757048;13:52.948;17:27.918;53:42.952;56:29.122;01:23:35;;;;;;;
+71;573;David Rojas Reyes;JBV;QUI.;Agua y Vida;rojasalf@hotmail.com;1005090543;13:53.926;16:49.893;44:38.841;57:08.943;01:18:50;;;;;;;
+72;590;Leandro Lorza Garcia;JBV;VAL;RUN MAX;Jerlea138@hotmail.com;1005943594;13:58.459;16:55.538;57:29.498;59:35.292;01:21:32;;;;;;;
+73;131;Jean Helbert Rios Escobar;C;SAN;Super Nova;jeanriosathlete@gmail.com;1095813003;14:01.898;17:16.877;50:10.589;52:03.746;01:10:19;;;;;;;
+74;110;Matin Alberto Angarita Ossa;A;BOL;Armada Nacional;angarita_martin@yahoo.com;1022398283;14:03.937;17:36.763;58:03.526;1:00:24.017;01:26:37;;;;;;;
+75;40;Julian Villa;W;CAL;TRIATLETAS DEL CAFE;Villa5408@hotmail.com;1060646611;14:10.518;17:15.075;52:47.112;54:51.884;01:20:28;;;;;;;
+76;576;Santiago Cruz Espinosa;JBV;BOG;Lactato Team;eikonmobiliario@gmail.com;11503403;14:14.063;17:20.738;52:32.457;54:34.608;01:18:08;;;;;;;
+77;124;Juan Pablo Coronado Delgado;C;BOG;Lactato Team;juanpabcoronado@gmail.com;1020773397;14:18.901;17:52.147;43:13.944;58:25.383;01:21:19;;;;;;;
+78;596;Gabriel Low;JBV;SL;Sin Club;low.gabriel.g@gmail.com;1193409812;14:20.239;17:16.321;42:03.983;52:12.125;01:13:29;;;;;;;
+79;588;Juan David Rivera Guerra;JBV;SL;Sin Club;davidriveraguerra@hotmail.com;1003811871;14:31.107;18:36.699;58:46.783;1:01:08.805;01:24:35;;;;;;;
+80;112;Juan Fernando Rosas Coral;A;SL;Sin Club;juancho96131@hotmail.com;1085325917;14:47.445;18:40.120;55:17.803;58:05.848;01:22:49;;;;;;;
+81;581;Moises David Perez Garcia;JBV;SL;Sin Club;moisesp223@gmail.com;1005568574;14:50.559;17:58.468;55:13.330;58:02.030;01:24:35;;;;;;;
+82;572;Arley Camilo Gastelbondo Arroyo;JBV;SL;Sin Club;moisesp223@gmail.com;1005710100;14:51.440;18:03.372;58:01.715;1:00:10.677;01:27:48;;;;;;;
+83;132;Sergio Andres Prada Rey;C;SAN;Campestre Bucaramanga;yeyoprada88@hotmail.com;1098663137;14:54.664;19:21.419;46:22.047;58:22.666;01:25:57;;;;;;;
+84;261;Izzick Stynze Ficquare;JBV;SL;Sin Club;carlosjulio07@hotmail.com;11100880;14:57.721;18:40.320;55:20.454;57:35.929;01:20:50;;;;;;;
+85;558;Tomas PeÑa Valenzuela;JAV;SL;Sin Club;nataliaval@hotmail.com;1020833029;14:59.940;18:42.850;55:15.772;58:14.199;01:25:25;;;;;;;
+86;582;Juan Manuel Franco Rodriguez;JBV;COR;Tornados;luisad007@hotmail.com;1005663885;15:20.216;19:30.346;1:02:52.261;1:16:27.615;01:45:25;;;;;;;
+87;578;Juan Felipe Echeverry Grajales;JBV;CAL;TRIATLETAS DEL CAFE;angiegr8@hotmail.com;1002575801;15:53.839;19:56.795;48:52.454;1:01:35.131;01:27:29;;;;;;;
+88;263;Daniel Vargas Velez;JBV;COR;Tornados;luisad007@hotmail.com;1193046738;15:55.742;19:47.212;55:12.597;57:45.814;01:21:33;;;;;;;
+89;109;Jhon Alexander Caro Alfonso;A;SL;Sin Club;jcaroa2@ucentral.edu.co;1010209279;16:33.141;20:55.984;57:27.312;1:01:36.594;01:27:12;;;;;;;
+90;609;Diego Felipe Moreno Camargo;A;SL;Sin Club;diegofmc93@hotmail.com;1032457322;17:01.121;21:34.233;50:38.793;1:17:24.757;01:32:01;;;;;;;
+91;135;Helmer Gonzalez Hoyos;C;BOL;Armada Nacional;helgonzalezh@gmail.com;1143345280;17:40.332;21:21.956;1:02:57.723;1:05:32.646;01:30:31;;;;;;;
+92;583;Jose Daniel Tous Bermejo;JBV;SL;Sin Club;moisesp223@gmail.com;1105390581;17:40.825;21:02.058;1:00:20.066;1:02:28.276;01:22:02;;;;;;;
+93;617;Andres Felipe Duque Gaviria;C;VAL;TRICALI;andres.duque_077@hotmail.com;1151947250;17:41.591;25:04.905;1:11:16.478;1:14:04.365;01:42:27;;;;;;;
+94;615;Daniel Gomez Afanador;C;SL;Sin Club;danielgomez2008@hotmail.com;1107057622;17:43.979;23:59.145;1:09:02.101;1:13:55.017;01:36:36;;;;;;;
+95;120;Andrés Felipe Ñungo Fernández;C;BOG;Escuela Colombiana de Triatlon;af.nungo52@uniandes.edu.co;1018439567;17:45.348;21:17.274;48:24.947;59:40.845;01:22:45;;;;;;;
+96;575;Juan Felipe Libreros Santamaria;JBV;CAL;TRIATLETAS DEL CAFE;juan.felipe.libreros@gmail.com;1007820675;17:47.899;22:30.932;1:05:03.892;1:07:39.926;01:38:01;;;;;;;
+97;136;Sergio Jair Hoyos Hurtado;C;VAL;RUN MAX;sergio180690@hotmail.com;1143831909;17:48.549;22:06.794;57:26.527;1:00:41.178;01:32:38;;;;;;;
+98;579;Juan Miguel Ruiz Zabaleta;JBV;COR;Tornados;juanruzurdo@gmail.com;1003432740;17:54.235;21:01.308;57:04.462;59:32.473;01:23:29;;;;;;;
+99;616;Diego Mauricio Ospina Ferro;C;VAL;Proyecto Colombia;dimaosferro@hotmail.com;1115076331;17:55.540;22:17.578;1:00:15.784;1:17:15.396;01:31:27;;;;;;;
+100;557;Miguel Angel Acosta Vergara;JAV;BOG;Escuela Colombiana de Triatlon;mikelito2806@hotmail.com;99062804285;17:59.662;22:23.780;1:07:01.902;1:09:37.754;01:38:45;;;;;;;
+101;119;Diego Fernando Ramírez Rueda;C;SL;Sin Club;diegofer1188@hotmail.com;1015409535;18:03.589;24:54.964;55:41.730;1:22:14.363;01:35:56;;;;;;;
+102;128;Helbert Lombana;C;SL;Sin Club;helbertolmr@gmail.com;1032445062;18:04.374;22:17.092;59:48.639;1:15:23.633;01:28:17;;;;;;;
+103;33;Trujillo Carrillo Juan Camilo;Y;BOG;MARATLON;juantrujillo1111@gmail.com;1014292361;18:08.096;22:52.895;1:01:59.650;1:15:24.586;01:26:30;;;;;;;
+104;613;Ruben Visser;C;EXT;Extranjeros;rpvisser91@hotmail.com;907346;18:33.199;22:19.165;1:04:22.331;1:06:32.697;01:30:46;;;;;;;
+105;121;Juan David Roldán;C;SL;Sin Club;roldanjuandavid@hotmail.com;1020746943;20:28.688;26:25.998;57:31.540;1:14:19.710;01:47:51;;;;;;;
+106;125;Francisco Javier Cruz Pinzon;C;SL;Sin Club;javiier.cruz.13@gmail.com;1026262807;21:20.972;26:25.928;59:49.595;1:14:21.958;01:50:43;;;;;;;
+107;608;Agudelo Agudelo;A;SL;Sin Club;agustin_agudelo@hotmail.com;1037624937;25:25.806;32:10.176;1:14:18.812;1:35:04.804;01:51:37;;;;;;;
+108;116;Juan Manuel Valderrama Matallana;A;BOL;Armada Nacional;juan.manuelv@hotmail.com;1143873209;0.000;0.000;0.000;0.000;;;;;;;;
+109;614;Noe Alejandro Rivera Salguero;C;BOG;226 TB;nariveras@hotmail.com;643977;0.000;0.000;0.000;0.000;;;;;;;;
+110;570;Sebastian Jose Padron Casadiegos;JBV;VAL;TRICALI;sebypadron17@gmail.com;1002193089;0.000;0.000;0.000;0.000;01:12:21;;;;;;;
+111;577;David Fernando Montes Alvarez;JBV;BOG;226 TB;gerenciasnayder@hotmail.com;1000284893;0.000;0.000;0.000;0.000;;;;;;;;
+112;25;Harvy Stephan Orduz Medina Orduz Medina;W;SAN;Super Nova;Orduz92@Outlook.com;1098728993;0.000;0.000;0.000;0.000;;;;;;;;
