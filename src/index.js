@@ -5,21 +5,17 @@ const { app, BrowserWindow } = require('electron')
 const path = require('path')
 
 const createWindow = () => {
-    // Create the browser window.
+    // Create the browser window.s
     const mainWindow = new BrowserWindow({
         width: 800,
-        height: 600,
-        webPreferences: {
-            preload: path.join(__dirname, 'preload.js')
-        }
+        height: 400
     })
-
-    mainWindow.loadURL('https://github.com')
+    console.log(BrowserWindow.getAllWindows().setBounds)
     // and load the index.html of the app.
-    //mainWindow.loadFile('index.html')
+    mainWindow.loadFile('src/views/index.html')
 
     // Open the DevTools.
-    // mainWindow.webContents.openDevTools()
+    mainWindow.webContents.openDevTools()
 }
 
 // This method will be called when Electron has finished
